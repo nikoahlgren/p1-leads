@@ -1,0 +1,12 @@
+{
+  "name": "p1-leads", // A unique name for your project, usually based on the repository name. Used by Node/npm.
+  "version": "1.0.0", // The current version number, following semantic versioning (major.minor.patch).
+  "main": "server.js", // Specifies the primary entry file for your Node.js application when executed by other tools.
+  "scripts": { // Defines custom commands that can be run using 'npm run <script-name>'.
+    "start": "node server.js", // The critical command run automatically by Render to start the production server.
+    "dev": "node server.js" // A separate command for local development (can be run via 'npm run dev').
+  },
+  "dependencies": { // Lists external libraries required for the application to function in production.
+    "express": "^4.18.0" // Includes the Express web framework dependency at version 4.18.0 or later patch versions (^ means compatible).
+  }
+}
