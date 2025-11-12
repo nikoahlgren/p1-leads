@@ -29,6 +29,6 @@ a few notes:
   Link: https://video.laurea.fi/media/t/0_splbdr1z
 
   Timestamps
--code showcase: 00:00 - 02:43
--Github showcase: 02:44 - 03:25
--Render.com and live application: 03:26 - 4:18
+- code showcase: 00:00 - 02:43
+- Github showcase: 02:44 - 03:25
+- Render.com and live application: 03:26 - 4:18
