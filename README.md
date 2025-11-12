@@ -24,5 +24,5 @@ a few notes:
 - It was nice to look at the comments and follow the flow of code. especially middleware was a learning moment.
 - After analyzing and testing i noticed that the leads.json is used as the database. Multiple concurrent writes from different processes could cause race conditions possibly.
 - Maybe this could use a SQLIte database if we wanted to improve this.
-- 
+  
 
